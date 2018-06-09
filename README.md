@@ -1,0 +1,2 @@
+# wikipedia
+wikipediaの解析
